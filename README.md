@@ -1,0 +1,2 @@
+# Interpretable-POS-Tagging-Applying-Hidden-Markov-Model-with-XAI-Framwork-to-the-Brown-Corpus-Dataset
+Part-of-speech tagging identifies a word's syntactic category based on context. Used to quickly disambiguate natural language with high accuracy, it supports critical NLP tasks like speech synthesis pronunciation (e.g., noun "discount" vs. verb "dis-count"), information retrieval, and word sense resolution.
